@@ -16,10 +16,11 @@ var compose = function (functions) {
     }
 };
 
-// I have an array of functions that returns a function fn
-// fn(x) = f(g(h(x))) - what it means that the it starts with a first function and the next one it will be inside and repedidently.
-// if the functions array is empty return x, if not returns another function
-// read the array from right to left
+/**  
+- I have an array of functions that returns a function fn
+- If the functions array is empty, return x. If not, return another function.
+- Read the array from right to left.
+*/
 
 /**
  * const fn = compose([x => x + 1, x => 2 * x])
