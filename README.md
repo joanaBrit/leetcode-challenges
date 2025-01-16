@@ -1,11 +1,13 @@
-# LeetCode
+# LeetCode Challenges 🚀
 
-This repository contains my solutions to LeetCode problems.
+Welcome to my LeetCode practice repository! Here, you'll find my solutions to multiple LeetCode coding problems, written in `JavaScript` and `Python`.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+### Why Am I Doing This?
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+I'm solving LeetCode problems to:
 
- Happy coding! 🚀
+* 🧠 Strengthen my problem-solving skills 
+* 💼 Prepare for technical interviews 
+* 🌱 Expand my knowledge and become a better developer 
+  
+I plan to code every day of the week, solving at least one problem (sometimes more!). To keep things interesting, I'll alternate between `JavaScript` and `Python`.
