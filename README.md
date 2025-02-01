@@ -30,4 +30,12 @@ I plan to code every day of the week, solving at least one problem (sometimes mo
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/joanaBrit/leetcode-challenges/tree/master/0144-binary-tree-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/joanaBrit/leetcode-challenges/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/joanaBrit/leetcode-challenges/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
