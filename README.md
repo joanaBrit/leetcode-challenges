@@ -38,4 +38,8 @@ I plan to code every day of the week, solving at least one problem (sometimes mo
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/joanaBrit/leetcode-challenges/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/joanaBrit/leetcode-challenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
