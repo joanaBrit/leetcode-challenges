@@ -41,5 +41,10 @@ I plan to code every day of the week, solving at least one problem (sometimes mo
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/joanaBrit/leetcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/joanaBrit/leetcode-challenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/joanaBrit/leetcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
