@@ -37,6 +37,7 @@ I plan to code every day of the week, solving at least one problem (sometimes mo
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/joanaBrit/leetcode-challenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [1894-merge-strings-alternately](https://github.com/joanaBrit/leetcode-challenges/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -51,4 +52,12 @@ I plan to code every day of the week, solving at least one problem (sometimes mo
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joanaBrit/leetcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/joanaBrit/leetcode-challenges/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/joanaBrit/leetcode-challenges/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
