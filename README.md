@@ -10,7 +10,7 @@ I'm solving LeetCode problems to:
 * 💼 Prepare for technical interviews 
 * 🌱 Expand my knowledge and become a better developer 
   
-I plan to code every day of the week, solving at least one problem (sometimes more!). To keep things interesting, I'll alternate between `JavaScript` and `Python`.
+To keep things interesting, I'll alternate between `JavaScript` and `Python`.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
